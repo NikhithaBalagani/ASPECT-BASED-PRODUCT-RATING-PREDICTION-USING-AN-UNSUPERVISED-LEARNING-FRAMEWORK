@@ -7,9 +7,9 @@ In this framework, we use LDA to extract topics from reviews and label each topi
 
 # OBJECTIVES OF THE WORK
 The major objectives of this research work are the following :
-        To determine the salient aspects in the dataset.
-        To detect the users’ sentiment towards a product in the dataset.
-        To identify the importance of the aspects with respect to users’ feedback.
-        To calculate the overall rating of the product of the test dataset.
-        To evaluate the performance of the proposed approach.
+        1.To determine the salient aspects in the dataset.
+        2.o detect the users’ sentiment towards a product in the dataset.
+        3.To identify the importance of the aspects with respect to users’ feedback.
+        4.To calculate the overall rating of the product of the test dataset.
+        5.To evaluate the performance of the proposed approach.
 
